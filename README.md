@@ -2,6 +2,8 @@
 
 # BASED ON [MELLOW](https://github.com/mellow-theme/mellow-theme)
 
+get it [here](https://marketplace.visualstudio.com/items?itemName=Umi-l.mellow-minimal-theme)
+
 A soothing dark color scheme for VSCode.
 
 ## Palette
