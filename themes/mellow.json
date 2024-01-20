@@ -144,7 +144,12 @@
     "inputOption.activeBorder": "#57575f",
     "checkbox.background": "#2a2a2d",
     "checkbox.border": "#3e3e43",
-    "icon.foreground": "#9998a8"
+    "icon.foreground": "#9998a8",
+    "menu.background": "#161617",
+    "menu.foreground": "#c9c7cd",
+    "menu.selectionBackground": "#3e3e43",
+    "menu.selectionForeground": "#ac9fcf",
+    "menu.separatorBackground": "#161617"
   },
   "tokenColors": [
     {

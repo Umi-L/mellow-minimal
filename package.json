@@ -1,11 +1,11 @@
 {
-  "name": "mellow-theme",
-  "displayName": "Mellow",
+  "name": "mellow-minimal-theme",
+  "displayName": "Mellow Minimal",
   "description": "A soothing dark color scheme for VSCode",
   "repository": {
-    "url": "https://github.com/kvrohit/mellow-theme"
+    "url": "https://github.com/Umi-L/mellow-minimal"
   },
-  "publisher": "kvrohit",
+  "publisher": "Umi-l",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -16,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mellow",
+        "label": "Mellow-Minimal",
         "uiTheme": "vs-dark",
         "path": "./themes/mellow.json"
       }
